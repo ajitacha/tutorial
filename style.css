@@ -1,0 +1,20 @@
+body{
+      background-image: url(https://wp-media.petersons.com/blog/wp-content/uploads/2018/01/10124531/henri-l-547224-unsplash.jpg);
+      background-size: cover;
+      background-attachment: fixed;
+    }
+    pre,p,ul{
+      font-size:30px;
+      text-align:left;
+      color:yellow;
+    }
+    h1{
+      color:yellow;
+      font-size: 50px;
+      text-align: center;
+    }
+    h2{
+      color:yellow;
+      font-size:40px;
+      text-align:left;
+    }
